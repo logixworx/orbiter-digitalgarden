@@ -6,5 +6,4 @@
  
 Hosted on IPFS and Base through Orbiter.
 
-
-<iframe src="https://eox-a.github.io/EOxElements/?path=/story/elements-eox-storytelling--markdown-with-editor" height="400" width="600"></iframe>
+<iframe src="https://eox-a.github.io/EOxElements/?path=/story/elements-eox-storytelling--markdown-with-editor" width='1000' height='1000'></iframe>
